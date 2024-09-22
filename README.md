@@ -1,3 +1,4 @@
+# Uso di algoritmi di Machine Learning per predire la tipologia di un tumore (benigno o maligno) a partire da una cellula tumorale
 In questo progetto abbiamo allenato un modello classificatore basandosi su un dataset di caratteristiche di cellule cancerose. L'obiettivo era di predire se una data cellula appartenesse ad un tumore benigno o maligno. 
 Il dataset è stato creato dalla University of Wisconsin (Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.) . Ha preso in esame 569 casi (righe - campioni) e 32 attributi (colonne - caratteristiche).
 
